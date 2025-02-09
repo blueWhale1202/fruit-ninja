@@ -19,11 +19,16 @@ Fruit Ninja is an exciting arcade game where players slice fruits that appear on
 3. **Avoid Bombs**: Slicing a bomb ends the game immediately.
 4. **Survive**: The game continues until you miss too many fruits or hit a bomb.
 
+## Preview
+
+![bluewhale1202 github io_fruit-ninja](https://github.com/user-attachments/assets/d5ba7785-7bdf-41c1-96a9-f69959f3a6a0)
+
+
 ## Installation
 
 ### Play Online
 
-Play directly in your browser [here](#).
+Play directly in your browser [here](https://bluewhale1202.github.io/fruit-ninja/).
 
 ### Local Installation
 
